@@ -1,0 +1,16 @@
+.wrap {
+	width:960px;
+	margin:0 auto;
+	
+}
+.content{
+	float:left;
+	background: #99FF99;
+	width:35%;
+	
+}
+.opys{
+	float:left;
+	background: #33CCFF;
+	width:65%;
+}
